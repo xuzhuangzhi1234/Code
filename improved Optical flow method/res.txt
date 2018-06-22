@@ -1,0 +1,41 @@
+TRI
+1.帧间差分+LK+meanshift：7.418506 秒  calculate
+2.帧间差分：0.188716 秒 calculateBeijing
+3.lk： 7.209878 秒 calculateLK
+4.lk+meanshift：11.845690 秒 calculateNochafen
+5.帧间差分+LK：4.626265 秒 calculateNoMean
+
+DOG
+1.帧间差分+LK+meanshift：6.784049 秒
+2.帧间差分：0.183582 秒
+3.lk：8.390504 秒
+4.lk+meanshift：9.527948 秒。
+5.帧间差分+LK：5.831953 秒
+
+CAR
+1.帧间差分+LK+meanshift：11.542134 秒
+2.帧间差分：0.247874 秒
+3.lk：12.129038 秒
+4.lk+meanshift： 17.964135 秒
+5.帧间差分+LK：8.749486 秒
+
+XINGREN
+1.帧间差分+LK+meanshift：1.978193 秒
+2.帧间差分：0.182216 秒
+3.lk：6.751249 秒
+4.lk+meanshift：9.866175 秒
+5.帧间差分+LK： 1.177228 秒
+
+BALL
+1.帧间差分+LK+meanshift： 4.724753 秒
+2.帧间差分：0.180963 秒
+3.lk：9.349779 秒
+4.lk+meanshift：11.138145 秒
+5.帧间差分+LK：4.213297 秒
+
+平均
+1.帧间差分+LK+meanshift：6.489527
+2.帧间差分：0.1966702
+3.lk：8.7660896
+4.lk+meanshift：12.0684186
+5.帧间差分+LK：4.9196458
